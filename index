@@ -1,0 +1,23 @@
+
+<html>
+<title>JavaScript - UNIDAD 3 - ACTIVIDAD OBLIGATORIA</title>
+<body>
+<p align="center"><b>Ingreso al Sistema</b>
+</p>
+<form>
+<p align="center">
+ <label for="usuario">Usuario: </label>
+<input id="usuario" type="text"></p>
+</p> 
+<p align="center">
+<label for="clave">Clave:&nbsp&nbsp&nbsp</label>
+<input id="clave" type="text">
+</p>
+<p align="center">
+<input id="submit" type="submit" value="Ingresar" target="_blank">
+</p>
+</form>
+<div align="center"></div>
+<script src="./js/control.js"></script>
+</body>
+</html>
