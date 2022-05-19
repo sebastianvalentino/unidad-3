@@ -14,7 +14,7 @@
 <input id="clave" type="text">
 </p>
 <p align="center">
-<input id="submit" type="submit" value="Ingresar" target="_blank">
+<input id="submit" type="submit" value="Ingresar">
 </p>
 </form>
 <div align="center"></div>
